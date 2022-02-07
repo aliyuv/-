@@ -5,10 +5,8 @@ let string = `/* 你好，我叫小🐟
 * 首先我要准备一个div
 **/
 #div1{
-   border: 1px solid red;
    width: 200px;
    height: 200px;
-   background:red;
 }
 /* 接下来我把 div 变成一个八卦图
 * 注意看好了
